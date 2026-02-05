@@ -1,8 +1,8 @@
-#University Management System
+**University Management System**
 
 A desktop-based University Management System developed using C# (WinForms/WPF) and MySQL. This project is designed to simplify and automate academic and administrative tasks such as student management, course handling, and fee records.
 
-🚀 Features
+🚀 **Features**
 
 Student, Faculty, and Admin management
 
@@ -12,7 +12,7 @@ Fee and payment records
 
 User-friendly desktop interface
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
 Language: C#
 
@@ -24,7 +24,7 @@ IDE: Visual Studio
 
 Architecture: Desktop Application
 
-🗄️ Database
+🗄️ **Database**
 
 MySQL database for storing user, academic, and administrative data
 
@@ -32,7 +32,7 @@ Supports CRUD operations
 
 Structured relational schema
 
-⚙️ Installation & Setup
+⚙️ **Installation & Setup**
 
 Clone the repository:
 
@@ -48,7 +48,7 @@ Update the database connection string in the project
 Build and run the application
 
 
-📌 Use Case
+📌 **Use Case**
 
 This project is suitable for:
 
